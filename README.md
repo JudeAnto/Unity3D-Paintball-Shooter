@@ -1,7 +1,7 @@
 # Unity3D-Paintball-Shooter
 ## Assignment 2
 
-![Lake View](https://i.imgur.com/OD48f8F.png)
+!["Lake View"](https://i.imgur.com/OD48f8F.png)
 
 ![Overall View (Arrow points to the Custom Tree)](https://i.imgur.com/Zn9Qdet.png)
 
